@@ -1,0 +1,179 @@
+.jumbotron h1 {
+  color: #4E4D4D;
+  font-size: 48px;  
+  font-family: 'Shift', monospace;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 0px;
+  position: relative;
+}
+
+.jumbotron h2 {
+  color: #4E4D4D;
+  font-family: 'Shift', monospace;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  position: relative;
+}
+
+.jumbotron {
+  background-image: url('http://2.bp.blogspot.com/-VsVdfaHzxDE/UH__2aDFP1I/AAAAAAAADCM/Y6_TfAV7__4/s1600/IMG_20121009_112243.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+img {
+   padding:1px;
+   border:1px solid #000000;
+   background-color:#000000;
+}
+
+.experience h2 {
+	color: #000000;
+    font-family: 'Shift', monospace;
+	font-size: 30px;
+}
+
+.row {
+	margin-top: 50px;
+}
+
+.mentormate h3 {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 0px
+}
+
+.mentormate p {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px
+}
+
+.mentormate ul {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 14px;
+	font-weight: bold;
+	width: 70%;
+	margin: auto;
+	margin-top: 25px;	
+}
+
+.nerdery h3 {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 0px
+}
+
+.nerdery p {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px
+}
+
+.nerdery ul {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 14px;
+	font-weight: bold;
+	width: 70%;
+	margin: auto;
+	margin-top: 25px;	
+}
+
+.ifco h3 {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 0px
+}
+
+.ifco p {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px
+}
+
+.ifco ul {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 14px;
+	font-weight: bold;
+	width: 70%;
+	margin: auto;
+	margin-top: 25px;	
+}
+
+.other h3 {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 25px;
+	font-weight: bold;
+	margin-bottom: 0px
+}
+
+.other ul {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 14px;
+	font-weight: bold;
+	width: 70%;
+	margin: auto;
+	margin-top: 25px;	
+}
+
+.education h3 {
+	color: #000000;
+    font-family: 'Shift', monospace;
+	font-size: 30px;
+}
+
+.education p {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.skills h3 {
+	color: #000000;
+    font-family: 'Shift', monospace;
+	font-size: 30px;
+}
+
+.skills p {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+	font-size: 14px;
+	font-weight: bold;
+	width: 70%;
+	margin: auto;
+	margin-top: 25px;
+}
+
+.references p {
+	color: #4E4D4D;
+    font-family: 'Shift', monospace;
+    font-style: italic;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 50px
+}
