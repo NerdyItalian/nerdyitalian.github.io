@@ -67,7 +67,7 @@ img {
 }
 
 .nerdery h3 {
-	color: #4E4D4D;
+	color: #000000;
     font-family: 'Shift', monospace;
 	font-size: 25px;
 	font-weight: bold;
@@ -75,7 +75,7 @@ img {
 }
 
 .nerdery p {
-	color: #000000;
+	color: #4E4D4D;
     font-family: 'Shift', monospace;
 	font-size: 18px;
 	font-weight: bold;
